@@ -1,5 +1,59 @@
-2025-02-07 19:30:26,544 - root - INFO - Arquivo lido com sucesso
-2025-02-07 19:30:26,554 - root - INFO - Arquivo gerado com sucesso
-2025-02-07 19:33:28,785 - __main__ - INFO - Arquivo lido com sucesso.
-2025-02-07 19:33:28,786 - __main__ - INFO - Média salarial calculada: 3920.46
-2025-02-07 19:33:28,793 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:42:20,778 - __main__ - ERROR - Erro no arquivo CSV: Esperado ≥3 colunas, encontrado 2: ['Nome', 'Idade']
+2025-02-08 00:44:58,289 - __main__ - ERROR - Erro no arquivo CSV: Esperado ≥3 colunas, encontrado 2: ['Nome', 'Idade']
+2025-02-08 00:45:14,917 - __main__ - INFO - Média salarial calculada: 3920.46
+2025-02-08 00:45:14,921 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:45:45,219 - __main__ - INFO - Média salarial calculada: 3920.46
+2025-02-08 00:45:45,222 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:50:04,796 - __main__ - ERROR - Erro inesperado ao carregar 'retorno.csv': '<' not supported between instances of 'str' and 'int'
+2025-02-08 00:53:59,676 - __main__ - INFO - Média salarial calculada: 3920.46
+2025-02-08 00:53:59,680 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:54:52,371 - __main__ - INFO - Média salarial calculada: 3262.05
+2025-02-08 00:54:52,377 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:55:02,869 - __main__ - INFO - Média salarial calculada: 3262.05
+2025-02-08 00:55:02,872 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:55:27,628 - __main__ - ERROR - Erro no arquivo CSV: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-02-08 00:55:45,591 - __main__ - ERROR - Erro no arquivo CSV: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-02-08 00:56:33,206 - __main__ - INFO - Média salarial calculada: 3262.05
+2025-02-08 00:56:33,210 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 00:57:15,992 - __main__ - ERROR - Erro inesperado ao carregar 'retorno.csv': '<' not supported between instances of 'str' and 'int'
+2025-02-08 00:58:58,485 - __main__ - ERROR - Erro no arquivo CSV: Salário não pode ser negativo
+2025-02-08 01:00:41,167 - __main__ - ERROR - Erro no arquivo CSV: Salário não pode ser negativo
+2025-02-08 01:00:49,472 - __main__ - INFO - Média salarial calculada: 3226.36
+2025-02-08 01:00:49,476 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 01:01:36,077 - __main__ - INFO - Média salarial calculada: 3226.36
+2025-02-08 01:01:36,081 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 01:03:16,226 - __main__ - INFO - Média salarial calculada: 3226.36
+2025-02-08 01:03:16,232 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 01:04:41,647 - __main__ - ERROR - Erro no arquivo CSV: O campo 'Nome' na linha 0 está nulo ou vazio.
+2025-02-08 01:10:06,133 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 01:10:06,138 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 01:27:21,500 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 01:39:49,099 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 01:39:49,101 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 01:39:49,104 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 01:52:17,948 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 01:52:17,950 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 01:52:17,957 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:17:09,229 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:17:09,230 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:17:09,233 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:18:18,917 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:18:18,917 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:18:18,920 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:18:18,921 - __main__ - ERROR - Erro ao gerar relatorio: [Errno 2] No such file or directory: 'salarios_acima_da_media_csv'
+2025-02-08 02:19:51,026 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:19:51,027 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:19:51,034 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:19:51,034 - __main__ - ERROR - Erro ao gerar relatorio: [Errno 2] No such file or directory: 'salarios_acima_da_media_csv'
+2025-02-08 02:20:04,866 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:20:04,867 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:20:04,872 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:20:04,880 - __main__ - INFO - Relatorio gerado com sucesso
+2025-02-08 02:21:03,364 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:21:03,364 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:21:03,368 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:21:03,373 - __main__ - INFO - Relatorio gerado com sucesso
+2025-02-08 02:25:24,917 - __main__ - INFO - Arquivo 'dados.csv' carregado com sucesso.
+2025-02-08 02:25:24,918 - __main__ - INFO - Média salarial calculada: 3272.05
+2025-02-08 02:25:24,922 - __main__ - INFO - Arquivo 'salarios_acima_da_media.csv' gerado com sucesso.
+2025-02-08 02:25:24,925 - __main__ - INFO - Relatorio gerado com sucesso
