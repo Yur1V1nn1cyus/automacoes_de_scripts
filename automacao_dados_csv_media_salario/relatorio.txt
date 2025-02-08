@@ -1,0 +1,11 @@
+
+RELATÓRIO DE SALÁRIOS
+
+Total de Funcionários: 4
+
+Funcionário com Maior Salário:
+Nome       Carlos
+Idade          40
+Salário    5000.0
+
+------------------------------
